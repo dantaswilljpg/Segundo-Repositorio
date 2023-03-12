@@ -1,0 +1,31 @@
+body{
+    margin: 0;
+    font: arial;
+}
+
+.boa_noite{
+    color: green;
+}
+.bom_dia{
+color: yellow;
+font-weight: 500;
+}
+
+.bom_dia_2{
+    color: aqua;
+}
+
+.interno{
+    color: black; 
+    font-weight: 500;
+    font-family: monospace;
+    font-size: 25px;
+    
+}
+
+.externa{
+    color: brown;
+    font-family: monospace;
+    font-size: 40px;
+    font-weight: bold;
+}
